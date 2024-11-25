@@ -23,8 +23,14 @@
 
 <br />
 
-<a href="https://github.com/eth220421"><img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=eth220421&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="eth220421's github stats" /></a>
-<a href="https://github.com/eth220421"><img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eth220421&layout=compact&theme=nord&hide_border=true" /></a> 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/eth220421">
+    <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=eth220421&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="eth220421's github stats" />
+  </a>
+  <a href="https://github.com/eth220421">
+    <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eth220421&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
 
 <br />
 
