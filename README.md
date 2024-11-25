@@ -23,7 +23,7 @@
 
 <br />
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=eth220421&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="eth220421's github stats" />
   <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eth220421&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 </div>
