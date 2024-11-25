@@ -44,6 +44,7 @@
 
 <br />
 <br />
+<br />
 
 - **설명** : **효율적인 팀 검색 기능**을 통해 **사용자 이탈률**을 줄이고, **동호회 활동을 더욱 활성화**하는 플랫폼
 - **사용 기술** : Typescript, React, Visual Studio Code, styled-components, NPM, Docker, Nginx, GitHub, Figma, Notion
@@ -56,6 +57,7 @@
   <img align="left" alt="Node | GitHub" width="40px" src="https://github.com/user-attachments/assets/a67c4f90-12b1-4137-a9ee-8536cd59157a" />
 </a>
 
+<br />
 <br />
 <br />
 
