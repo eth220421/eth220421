@@ -23,7 +23,7 @@
 
 <br />
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 10px;">
   <a href="https://github.com/eth220421" style="width: 45%; text-align: center;">
     <img style="height: 200px; width: 100%;" src="https://github-readme-stats.vercel.app/api?username=eth220421&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="eth220421's github stats" />
   </a>
