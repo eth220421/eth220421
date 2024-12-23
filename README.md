@@ -47,7 +47,7 @@
 <br />
 
 - **설명** : **효율적인 팀 검색 기능**을 통해 **사용자 이탈률**을 줄이고, **동호회 활동을 더욱 활성화**하는 플랫폼
-- **사용 기술** : Typescript, React, Visual Studio Code, styled-components, NPM, Docker, Nginx, GitHub, Figma, Notion
+- **사용 기술** : Typescript, React, Visual Studio Code, Styled-Components, NPM, Docker, Nginx, GitHub, Figma, Notion
 - **구현 기능** : 소셜 로그인, 랜딩 페이지, Chat Bot, Recharts Library, Kakao Map API, 무한 슬라이드, 더 보기 기능 등
 
 
@@ -56,14 +56,35 @@
 <a href="https://github.com/Node-Hackathon" target="_blank">
   <img align="left" alt="Node | GitHub" width="40px" src="https://github.com/user-attachments/assets/a67c4f90-12b1-4137-a9ee-8536cd59157a" />
 </a>
+<a href="https://pickled-mask-7b7.notion.site/Node-14be1d4b308a8047b789f3b43680515b" target="_blank">
+  <img align="left" alt="eth220421 | Notion" width="40px" src="https://img.icons8.com/color/48/000000/notion.png" />
+</a>
 
 <br />
 <br />
 <br />
 
 - **설명** : **AI**를 활용한 **치매 관리** 및 **예방** 서비스
-- **사용 기술** : Typescript, React, Visual Studio Code, styled-components, NPM, RTK-Query GitHub, Figma, Notion
+- **사용 기술** : Typescript, React, Visual Studio Code, Styled-Components, NPM, RTK-Query GitHub, Figma, Notion
 - **구현 기능** : 랜딩 페이지, 마이 페이지, 내 정보 페이지, 보호자 페이지, 진단 결과 페이지, 게임 누적 결과 페이지, 일기장 페이지, 공통 컴포넌트, NoResult 컴포넌트
+
+
+### [ Algoism? ]
+
+<a href="https://github.com/Algoism-RN/Algoism_FE" target="_blank">
+  <img align="left" alt="Algoism? | GitHub" width="40px" src="https://github.com/user-attachments/assets/a67c4f90-12b1-4137-a9ee-8536cd59157a" />
+</a>
+<a href="https://pickled-mask-7b7.notion.site/Algoism-14be1d4b308a802aba20d68277d9d558" target="_blank">
+  <img align="left" alt="eth220421 | Notion" width="40px" src="https://img.icons8.com/color/48/000000/notion.png" />
+</a>
+
+<br />
+<br />
+<br />
+
+- **설명** : 컴퓨터 관련 전공 학생들의 자투리 시간을 책임질 학습 서비스, **Algoism?**
+- **사용 기술** : Javascript, React-Native, Expo, Visual Studio Code, Styled-Components, Reanimated, React-Navigation, YARN, GitHub, Figma, Notion
+- **구현 기능** : Navigation, Bottom Tabs, Reanimated, System Theme, Font, Infinity Slide, Progress Bar, Bar Graph, Custom Alert, Modal, Async Storage
 
 <br />
 
