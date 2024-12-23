@@ -35,7 +35,7 @@
 ## 📁 My Project
 ### [ Public-Place ]
 
-<a href="https://github.com/Public-Place" target="_blank">
+<a href="https://github.com/Public-Place/PublicPlace_FE" target="_blank">
   <img align="left" alt="eth220421 | GitHub" width="40px" src="https://github.com/user-attachments/assets/df932939-4351-41ca-a3c4-27e0751b28e1" />
 </a>
 <a href="https://pickled-mask-7b7.notion.site/Public_Place-119e1d4b308a80c89205d8aca2879638" target="_blank">
@@ -53,7 +53,7 @@
 
 ### [ Node ]
 
-<a href="https://github.com/Node-Hackathon" target="_blank">
+<a href="https://github.com/Node-Hackathon/Node_Frontend" target="_blank">
   <img align="left" alt="Node | GitHub" width="40px" src="https://github.com/user-attachments/assets/df932939-4351-41ca-a3c4-27e0751b28e1" />
 </a>
 <a href="https://pickled-mask-7b7.notion.site/Node-14be1d4b308a8047b789f3b43680515b" target="_blank">
