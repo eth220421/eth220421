@@ -36,7 +36,7 @@
 ### [ Public-Place ]
 
 <a href="https://github.com/Public-Place" target="_blank">
-  <img align="left" alt="eth220421 | GitHub" width="40px" src="https://github.com/user-attachments/assets/a67c4f90-12b1-4137-a9ee-8536cd59157a" />
+  <img align="left" alt="eth220421 | GitHub" width="40px" src="https://github.com/user-attachments/assets/df932939-4351-41ca-a3c4-27e0751b28e1" />
 </a>
 <a href="https://pickled-mask-7b7.notion.site/Public_Place-119e1d4b308a80c89205d8aca2879638" target="_blank">
   <img align="left" alt="eth220421 | Notion" width="40px" src="https://img.icons8.com/color/48/000000/notion.png" />
@@ -54,7 +54,7 @@
 ### [ Node ]
 
 <a href="https://github.com/Node-Hackathon" target="_blank">
-  <img align="left" alt="Node | GitHub" width="40px" src="https://github.com/user-attachments/assets/a67c4f90-12b1-4137-a9ee-8536cd59157a" />
+  <img align="left" alt="Node | GitHub" width="40px" src="https://github.com/user-attachments/assets/df932939-4351-41ca-a3c4-27e0751b28e1" />
 </a>
 <a href="https://pickled-mask-7b7.notion.site/Node-14be1d4b308a8047b789f3b43680515b" target="_blank">
   <img align="left" alt="eth220421 | Notion" width="40px" src="https://img.icons8.com/color/48/000000/notion.png" />
@@ -72,7 +72,7 @@
 ### [ Algoism? ]
 
 <a href="https://github.com/Algoism-RN/Algoism_FE" target="_blank">
-  <img align="left" alt="Algoism? | GitHub" width="40px" src="https://github.com/user-attachments/assets/a67c4f90-12b1-4137-a9ee-8536cd59157a" />
+  <img align="left" alt="Algoism? | GitHub" width="40px" src="https://github.com/user-attachments/assets/df932939-4351-41ca-a3c4-27e0751b28e1" />
 </a>
 <a href="https://pickled-mask-7b7.notion.site/Algoism-14be1d4b308a802aba20d68277d9d558" target="_blank">
   <img align="left" alt="eth220421 | Notion" width="40px" src="https://img.icons8.com/color/48/000000/notion.png" />
@@ -95,3 +95,5 @@
 <a href="mailto:eth220421@gmail.com">
   <img align="left" alt="eth220421@gmail.com | Gmail" width="40px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
+
+
