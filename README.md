@@ -1,6 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=AAD4E7&customColorList=10&height=200&text=YoungHoon's%20GitHub&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign=65&fontAlignY=36)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+YoungHoon's+GitHub+👋)
 
+## 🧑🏻‍💻 Profile
+
+<a href="https://pickled-mask-7b7.notion.site/14ae1d4b308a80d98446e23b37f58c05" target="_blank">
+  <img align="left" alt="eth220421 | Notion" width="45px" src="https://github.com/user-attachments/assets/982435fa-b382-4791-ab48-827f3362d838" />
+</a>
+<h3>⬅ If you want to check my profile, Click the icon</h3>
+
+<br />
+
 ## 🛠️ Languages and Tools
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
