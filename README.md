@@ -3,7 +3,7 @@
 
 ## 🧑🏻‍💻 Profile
 
-<a href="https://pickled-mask-7b7.notion.site/14ae1d4b308a80d98446e23b37f58c05" target="_blank">
+<a href="https://pickled-mask-7b7.notion.site/176e1d4b308a80e8a7cfce31eec6a275" target="_blank">
   <img align="left" alt="eth220421 | Notion" width="45px" src="https://github.com/user-attachments/assets/982435fa-b382-4791-ab48-827f3362d838" />
 </a>
 <h3>⬅ If you want to check my profile, Click the icon</h3>
